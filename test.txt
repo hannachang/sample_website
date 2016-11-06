@@ -1,2 +1,2 @@
 Stuffy!
-Second line of stuff!
+Namespaced - Second line of stuff!
